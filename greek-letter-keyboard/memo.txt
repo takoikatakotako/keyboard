@@ -1,0 +1,151 @@
+      // google
+      Keyboard.press(0x67);
+      Keyboard.release(0x67);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x67);
+      Keyboard.release(0x67);
+      Keyboard.press(0x6c);
+      Keyboard.release(0x6c);
+      Keyboard.press(0x65);
+      Keyboard.release(0x65);
+      // .com
+      Keyboard.press(0x2e);
+      Keyboard.release(0x2e);
+      Keyboard.press(0x63);
+      Keyboard.release(0x63);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
+
+
+
+
+      // twitter
+      Keyboard.press(0x74);
+      Keyboard.release(0x74);
+      Keyboard.press(0x77);
+      Keyboard.release(0x77);
+      Keyboard.press(0x69);
+      Keyboard.release(0x69);
+      Keyboard.press(0x74);
+      Keyboard.release(0x74);
+      Keyboard.press(0x74);
+      Keyboard.release(0x74);
+      Keyboard.press(0x65);
+      Keyboard.release(0x65);
+      Keyboard.press(0x72);
+      Keyboard.release(0x72);
+      // .com
+      Keyboard.press(0x2e);
+      Keyboard.release(0x2e);
+      Keyboard.press(0x63);
+      Keyboard.release(0x63);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
+    
+
+          // amazon
+      Keyboard.press(0x61);
+      Keyboard.release(0x61);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
+      Keyboard.press(0x61);
+      Keyboard.release(0x61);
+      Keyboard.press(0x7a);
+      Keyboard.release(0x7a);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6e);
+      Keyboard.release(0x6e);
+      // .com
+      Keyboard.press(0x2e);
+      Keyboard.release(0x2e);
+      Keyboard.press(0x63);
+      Keyboard.release(0x63);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
+
+
+            // github
+      Keyboard.press(0x67);
+      Keyboard.release(0x67);
+      Keyboard.press(0x79);
+      Keyboard.release(0x79);
+      Keyboard.press(0x74);
+      Keyboard.release(0x74);
+      Keyboard.press(0x68);
+      Keyboard.release(0x68);
+      Keyboard.press(0x75);
+      Keyboard.release(0x75);
+      Keyboard.press(0x62);
+      Keyboard.release(0x62);
+      // .com
+      Keyboard.press(0x2e);
+      Keyboard.release(0x2e);
+      Keyboard.press(0x63);
+      Keyboard.release(0x63);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
+
+
+
+            // datadog
+      Keyboard.press(0x64);
+      Keyboard.release(0x64);
+      Keyboard.press(0x61);
+      Keyboard.release(0x61);
+      Keyboard.press(0x74);
+      Keyboard.release(0x74);
+      Keyboard.press(0x61);
+      Keyboard.release(0x61);
+      Keyboard.press(0x64);
+      Keyboard.release(0x64);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x67);
+      Keyboard.release(0x67);
+      // .com
+      Keyboard.press(0x2e);
+      Keyboard.release(0x2e);
+      Keyboard.press(0x63);
+      Keyboard.release(0x63);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
+
+
+      // youtube
+      Keyboard.press(0x79);
+      Keyboard.release(0x79);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x75);
+      Keyboard.release(0x75);
+      Keyboard.press(0x74);
+      Keyboard.release(0x74);
+      Keyboard.press(0x75);
+      Keyboard.release(0x75);
+      Keyboard.press(0x62);
+      Keyboard.release(0x62);
+      Keyboard.press(0x65);
+      Keyboard.release(0x65);
+      // .com
+      Keyboard.press(0x2e);
+      Keyboard.release(0x2e);
+      Keyboard.press(0x63);
+      Keyboard.release(0x63);
+      Keyboard.press(0x6f);
+      Keyboard.release(0x6f);
+      Keyboard.press(0x6d);
+      Keyboard.release(0x6d);
